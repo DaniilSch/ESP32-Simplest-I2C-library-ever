@@ -11,7 +11,7 @@
 ▐░░░░░░░░░░░▌▐░▌      ▐░░▌     ▐░▌     ▐░▌       ▐░▌▐░░░░░░░░░░░▌
  ▀▀▀▀▀▀▀▀▀▀▀  ▀        ▀▀       ▀       ▀         ▀  ▀▀▀▀▀▀▀▀▀▀▀                                                        
  * ============================================================================
- *    Filename: SUS_esp32_I2Cmaster_library_BAREBONES.h
+ *    Filename: SUS_I2Cmaster_BAREBONES.h.h
  *
  *    Brief:    I2C bus library enabling use of ESP32 as a Master device. 
  *              BAREBONES version.
