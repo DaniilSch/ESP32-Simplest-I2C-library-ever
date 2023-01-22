@@ -1,4 +1,4 @@
-# Simplest-I2C-library-ever-for-ESP32-
+# Simplest-I2C-library-ever-ESP32-
 I2C master library for ESP32 written with MAXIMUM transparency, readability, ease of use and integration in mind. Full spoonfeeding-grade documentation is included. 
 
 **Part of  "Simple Universal Solutions" (SUS) library pack.**   ;)
