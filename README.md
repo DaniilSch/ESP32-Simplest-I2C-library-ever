@@ -1,5 +1,5 @@
 # Simplest-I2C-library-ever-ESP32-
-I2C master library for ESP32 written with MAXIMUM transparency, readability, ease of use and integration in mind. Full spoonfeeding-grade documentation is included. 
+I2C master library for ESP32 written with MAXIMUM transparency, readability, ease of use and integration in mind. Full spoonfeeding-grade documentation is included. Good for when you need to read some sensors in a pinch.
 
 **Part of  "Simple Universal Solutions" (SUS) library pack.**   ;)
 
